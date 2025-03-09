@@ -43,3 +43,4 @@ Predictive models that use trends in nutrition and activity to forecast individu
 Using data-driven insights, personalized recommendations are generated to enhance diet and exercise regimens.
 Being aware of how recovery and sleep impact fitness results.
 
+###### TOPRAK ARAS - 32150
