@@ -1,4 +1,4 @@
-# DSA_210_repository
+# Personalized Health Insights: Examining Diet, Exercise, and Their Effects on BMI and Wellness 💪🏼 
 
 
 #### INTRODUCTION
@@ -42,6 +42,4 @@ Identifying the main food and exercise habits that lead to better personal healt
 Predictive models that use trends in nutrition and activity to forecast individual health outcomes.
 Using data-driven insights, personalized recommendations are generated to enhance diet and exercise regimens.
 Being aware of how recovery and sleep impact fitness results.
-
-
 
