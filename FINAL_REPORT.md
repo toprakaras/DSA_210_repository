@@ -78,10 +78,12 @@ Shows prediction accuracy for the Random Forest model.
 
 ![Actual vs Predicted](Graphs_exported_to_use_for_final/Actual_vs_Predicted_Energy.png)
 
-#### Feature Importances
+#### Feature Importances  
 Highlights the most influential features (e.g., step count, sleep, workout).
 
 ![Feature Importances](Graphs_exported_to_use_for_final/Feature_Importance_rf.png)
+
+For full code, and further explonation: [ML_METHODS.md](ML_METHODS.md)
 
 ##  Visualizations
 
